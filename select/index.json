@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "FUN!!",
+  "base_artist": "MORE MORE JUMP！",
+  "createdAt": "2025-12-11T04:17:58.394724Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All The Fun",
+      "artist": "Paul Overstreet",
+      "has_synced": false,
+      "path": "select/01_All_The_Fun_Paul_Overstreet.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Too Much Fun",
+      "artist": "Daryle Singletary",
+      "has_synced": true,
+      "path": "select/02_Too_Much_Fun_Daryle_Singletary.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Ain't Much Fun",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/03_You_Ain't_Much_Fun_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fun",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/04_Fun_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fun (DrewG Radio Edit)",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/05_Fun_(DrewG_Radio_Edit)_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fun (Eric Kupper Disco Remix)",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/06_Fun_(Eric_Kupper_Disco_Remix)_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fun (Eric Kupper Disco Radio Edit)",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/07_Fun_(Eric_Kupper_Disco_Radio_Edit)_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fun (Greg Cohen Spirit of 79 Remix)",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/08_Fun_(Greg_Cohen_Spirit_of_79_Remix)_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fun (Greg Cohen Spirit of 79 Short Edit)",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/09_Fun_(Greg_Cohen_Spirit_of_79_Short_Edit)_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fun Tonight",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/10_Fun_Tonight_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Too Much Fun (Album Version)",
+      "artist": "Daryle Singletary",
+      "has_synced": true,
+      "path": "select/11_Too_Much_Fun_(Album_Version)_Daryle_Singletary.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Ain't Much Fun (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/12_You_Ain't_Much_Fun_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "뻔&Fun (Sweet Talking Baby)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/13_뻔&Fun_(Sweet_Talking_Baby)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "뻔&Fun (Sweet Talking Baby)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/14_뻔&Fun_(Sweet_Talking_Baby)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Look So Fine - Fun Lovin' Criminals Remix",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/15_You_Look_So_Fine_-_Fun_Lovin'_Criminals_Remix_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Look So Fine (Fun Lovin' Criminals)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/16_You_Look_So_Fine_(Fun_Lovin'_Criminals)_Garbage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FUN!!",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_FUN!!_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
